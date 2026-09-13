@@ -1,0 +1,10 @@
+пакет {
+    имя = "weather"
+    версия = "1.0.0"
+    автор = "SkyMonder"
+    описание = "Погода из open-meteo.com"
+    репозиторий = "github.com/skymonder/skyforge-weather"
+    точка_входа = "code/weather.skf"
+    теги = ["погода", "api", "http"]
+    лицензия = "MIT"
+}
