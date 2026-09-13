@@ -1,10 +1,8 @@
 пакет {
-    имя = "weather"
+    имя = "hello"
     версия = "1.0.0"
-    автор = "SkyMonder"
-    описание = "Погода из open-meteo.com"
-    репозиторий = "github.com/skymonder/skyforge-weather"
+    автор = "Тестер"
+    описание = "Тестовый пакет погоды"
     точка_входа = "code/weather.skf"
     теги = ["погода", "api", "http"]
-    лицензия = "MIT"
 }
